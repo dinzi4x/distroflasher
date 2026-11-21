@@ -44,8 +44,8 @@
 
 ```bash
 git clone https://github.com
-cd disto-usb-flasher
-python3 disto_flasher.py
+cd distro-usb-flasher
+python3 distro_flasher.py
 ```
 
 ---
