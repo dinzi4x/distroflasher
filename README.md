@@ -52,4 +52,4 @@ python3 distro_flasher.py
 
 ## 📄 License / Лицензия
 
-Distributed under the **MIT License**. See `LICENSE` for more information. 
+Distributed under the **MIT License**. See `LICENSE` for more information.  
