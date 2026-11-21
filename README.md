@@ -44,8 +44,8 @@
 
 ```bash
 git clone https://github.com
-cd omni-usb-flasher
-python3 omni_flasher.py
+cd disto-usb-flasher
+python3 disto_flasher.py
 ```
 
 ---
