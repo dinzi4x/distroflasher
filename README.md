@@ -44,7 +44,7 @@
 
 ```bash
 git clone https://github.com
-cd distro-usb-flasher
+cd distroflasher
 python3 distro_flasher.py
 ```
 
